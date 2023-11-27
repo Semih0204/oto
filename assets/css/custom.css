@@ -1,0 +1,101 @@
+/* Kendi CSS dosyam */
+
+.bookingTableChecked {
+    font-size: 24px;
+    font-weight: bolder;
+    color: green;
+}
+
+.bookingTableUnchecked {
+    font-size: 24px;
+    font-weight: bolder;
+    color: red;
+}
+
+.input-form-error {
+    font-size: 12px;
+    color: #ff5b5b;
+    font-weight: 900;
+    text-align: right;
+}
+
+.span-color-blue {
+    color: blue;
+    font-weight: 900;
+}
+
+.pull-center-trend {
+    text-align: center;
+}
+
+td {
+    vertical-align: middle!important;
+}
+
+.w30 {
+    width: 30px!important;
+}
+
+.w50 {
+    width: 50px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.w200 {
+    width: 200px;
+}
+
+.w250 {
+    width: 200px;
+}
+
+.dataTable-w20 {
+    width: 20px;
+}
+
+.dataTable-w50 {
+    width: 50px;
+}
+
+#datatableRowsJob {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.personel-table th {
+    background-color: #145388;
+    color: white;
+}
+
+.personel-table #m1a,
+#m1b {
+    border-color: #09A6C9;
+    color: #09A6C9;
+    font-weight: bolder;
+}
+
+.personel-table #m2a,
+#m2b {
+    border-color: #C4037C;
+    color: #C4037C;
+    font-weight: bolder;
+}
+
+.personel-table #m3a,
+#m3b {
+    border-color: #FF6501;
+    color: #FF6501;
+    font-weight: bolder;
+}
+
+#form-header {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: orange;
+    font-weight: bolder;
+}
